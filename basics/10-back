@@ -1,2 +1,2 @@
 #!/bin/bash
-cd -CDPATH /tmp -CDPATH /var
+cd -CDPATH -PWD /tmp -CDPATH -OLDPWD /var
