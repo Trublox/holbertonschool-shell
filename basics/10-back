@@ -1,2 +1,2 @@
 #!/bin/bash
-cd -p 
+cd -pwd [/tmp] -oldpwd [/var] -home 
