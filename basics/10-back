@@ -1,2 +1,2 @@
 #!/bin/bash
-cd -PWD -OLDPWD /tmp /var
+cd -PWD -OLDPWD [/tmp] [/var]
